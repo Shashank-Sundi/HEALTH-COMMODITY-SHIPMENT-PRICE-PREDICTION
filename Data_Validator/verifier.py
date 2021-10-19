@@ -4,7 +4,6 @@ import numpy as np
 
 def verify_with_schema(data,schema_path):
     log_writer=App_Logger()
-
     try:
         col_length, col_names, dtypes = load_schema(schema_path)
         err=0

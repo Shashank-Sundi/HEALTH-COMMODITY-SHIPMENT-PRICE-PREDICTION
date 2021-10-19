@@ -2,6 +2,8 @@ from flask import request,Flask,render_template
 from flask_cors import cross_origin , CORS
 from Log_Writer.logger import App_Logger
 from Raw_Data_Formatter.data_formatter import formatter
+from Data_Validator.data_validator import Validator
+import sys
 
 app=Flask(__name__)
 CORS(app)
@@ -22,6 +24,11 @@ def index():
 
             # Gathering the data and converting it to dataframe
             data = formatter().format_data()
+
+            # Validating the input data
+            err = Validator().validate(data)
+            if err > 0:
+                sys.exit()
 
 
             return render_template("results.html")

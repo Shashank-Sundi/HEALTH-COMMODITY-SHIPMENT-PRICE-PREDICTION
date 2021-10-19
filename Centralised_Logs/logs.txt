@@ -2,3 +2,306 @@ DATE : 2021-10-19 --- TIME : 22:18:29 		 ERROR occured in Data Collection and Ag
 DATE : 2021-10-19 --- TIME : 22:18:29 		 Converting raw data to DataFrame 
 DATE : 2021-10-19 --- TIME : 22:18:29 		 Converted Raw Data to DataFrame 
 DATE : 2021-10-19 --- TIME : 22:18:29 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:48:35 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:48:42 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:48:42 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR occured in data validation 
