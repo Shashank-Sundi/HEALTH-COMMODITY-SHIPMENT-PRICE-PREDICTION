@@ -1,8 +1,11 @@
 from flask import request,Flask,render_template
 from flask_cors import cross_origin , CORS
+from Log_Writer.logger import App_Logger
 
 app=Flask(__name__)
 CORS(app)
+
+log_writer=App_Logger()
 
 @app.route('/',methods=['GET','POST'])
 @cross_origin()
@@ -14,13 +17,18 @@ def homePage():
 def index():
 
     try:
-        if request.methods=="POST":
+        if request.method=="POST":
+
+            # Gathering the data and converting it to dataframe
+            data = formatter().format_data()
+
+
             return render_template("results.html")
         else :
             return render_template("index.html")
 
     except Exception as e:
-        log_writer.log(log_message="Error Occured in index page route")
+        log_writer.log(log_message="Error Occurred in index page route")
         return print(e)
 
 
