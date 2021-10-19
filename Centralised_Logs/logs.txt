@@ -305,3 +305,94 @@ DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data
 DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Freight_cost_special is not same as str 
 DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
 DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:54:09 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:54:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:55:04 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:55:04 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:54:08 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:55:23 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:59:09 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:59:23 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:03:29 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:03:36 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Data Validation Successfull 

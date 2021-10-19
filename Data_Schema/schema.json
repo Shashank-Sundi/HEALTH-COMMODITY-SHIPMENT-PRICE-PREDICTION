@@ -7,11 +7,10 @@
             , "dlvry_delay", "dlvry_verif_time_delay", "Unit_of_measure"
             , "Line_Item_Quantity", "Pack_Price", "Unit_Price", "First_Line_Designation"
             , "Weight", "Freight_Cost", "Freight_cost_special", "Line_Item_Insurance"
-            , "item_value"
-    ],
+            , "item_value"],
 
-  "dtypes": ["str","str","str","str","str","str","str,","str",
-            "str","str","str","str","float64","float64","float64","float64",
-            "float64","float64","int64","float64","float64","str","float64",
+  "dtypes": ["object","object","object","object","object","object","object","object",
+            "object","object","int64","object","float64","float64","float64","float64",
+            "float64","float64","int64","float64","float64","object","float64",
             "float64"]
 }
