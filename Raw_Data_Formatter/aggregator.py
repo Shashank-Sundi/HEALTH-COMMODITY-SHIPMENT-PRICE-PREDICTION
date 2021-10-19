@@ -33,46 +33,46 @@ def aggregate_data():
         if request.form['Unit of Measure (Per Pack)'] == "":
             Unit_of_measure = np.nan
         else:
-            Unit_of_measure = request.form['Unit of Measure (Per Pack)']
+            Unit_of_measure = float(request.form['Unit of Measure (Per Pack)'])
 
         if request.form['Line Item Quantity'] == "":
             Line_Item_Quantity = np.nan
         else:
-            Line_Item_Quantity = request.form['Line Item Quantity']
+            Line_Item_Quantity = float(request.form['Line Item Quantity'])
 
         if request.form['Pack Price'] == "":
             Pack_Price = np.nan
         else:
-            Pack_Price = request.form['Pack Price']
+            Pack_Price =float(request.form['Pack Price'])
 
         if request.form['Unit Price'] == "":
             Unit_Price = np.nan
         else:
-            Unit_Price = request.form['Unit Price']
+            Unit_Price = float(request.form['Unit Price'])
 
         First_Line_Designation = int(request.form['First Line Designation'])
 
         if request.form['Weight (Kilograms)'] == "":
             Weight = np.nan
         else:
-            Weight = request.form['Weight (Kilograms)']
+            Weight = float(request.form['Weight (Kilograms)'])
 
         if request.form['Freight Cost (USD)'] == "":
             Freight_Cost = np.nan
         else:
-            Freight_Cost = request.form['Freight Cost (USD)']
+            Freight_Cost = float(request.form['Freight Cost (USD)'])
 
         Freight_cost_special = request.form['Freight_cost_special']
 
         if request.form['Line Item Insurance (USD)'] == "":
             Line_Item_Insurance = np.nan
         else:
-            Line_Item_Insurance = request.form['Line Item Insurance (USD)']
+            Line_Item_Insurance = float(request.form['Line Item Insurance (USD)'])
 
         if request.form['Line Item Value'] == "":
             Line_Item_Value = np.nan
         else:
-            Line_Item_Value = request.form['Line Item Value']
+            Line_Item_Value = float(request.form['Line Item Value'])
 
         item_value = (Line_Item_Value + Line_Item_Insurance) / Line_Item_Quantity
 

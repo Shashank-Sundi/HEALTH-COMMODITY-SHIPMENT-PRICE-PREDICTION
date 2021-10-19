@@ -1,17 +1,19 @@
-from Log_Writer.logger import  App_Logger
+from Log_Writer.logger import App_Logger
 import pandas as pd
 
 
 def format(data):
-    log_writer=App_Logger()
+    log_writer = App_Logger()
     try:
         log_writer.log(log_message="Converting raw data to DataFrame")
 
-        data=pd.DataFrame(data=data,columns=['age', 'sex', 'on_thyroxine', 'query_on_thyroxine',
-                           'on_antithyroid_medication', 'sick', 'pregnant', 'thyroid_surgery',
-                           'I131_treatment', 'query_hypothyroid', 'query_hyperthyroid', 'lithium',
-                           'goitre', 'tumor', 'hypopituitary', 'psych', 'TSH', 'TSH_nan', 'T3',
-                           'T3_nan', 'TT4', 'TT4_nan', 'T4U', 'FTI', 'FTI_nan', 'referral_source'])
+        data = pd.DataFrame(data=data, columns=['Country', 'Manufacturing_Site', 'Brand', 'Item_Description'
+            , 'Product_Group', 'Sub_Classification', 'Molecule_Test_Type'
+            , 'Dosage_Form', 'Dosage', 'Managed_By', 'Fulfill_Via', 'Shipment_Mode'
+            , 'dlvry_delay', 'dlvry_verif_time_delay', 'Unit_of_measure'
+            , 'Line_Item_Quantity', 'Pack_Price', 'Unit_Price', 'First_Line_Designation'
+            , 'Weight', 'Freight_Cost', 'Freight_cost_special', 'Line_Item_Insurance'
+            , 'item_value'])
 
         log_writer.log(log_message="Converted Raw Data to DataFrame")
         return data

@@ -1,6 +1,7 @@
 from flask import request,Flask,render_template
 from flask_cors import cross_origin , CORS
 from Log_Writer.logger import App_Logger
+from Raw_Data_Formatter.data_formatter import formatter
 
 app=Flask(__name__)
 CORS(app)
@@ -33,5 +34,5 @@ def index():
 
 
 if __name__=="__main__":
-    app.run(debug=True,host="127.0.01",port=8001)
+    app.run(debug=True,host="127.0.0.1",port=8001)
 
