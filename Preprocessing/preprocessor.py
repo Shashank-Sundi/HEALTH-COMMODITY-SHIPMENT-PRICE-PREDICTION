@@ -1,6 +1,6 @@
 from Log_Writer.logger import App_Logger
 from Preprocessing.null_imputer import null_value_imputer
-from categ_encoding import encode
+from Preprocessing.categ_encoding import encode
 
 class Preprocessor:
 

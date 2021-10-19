@@ -396,3 +396,14 @@ DATE : 2021-10-19 --- TIME : 23:05:05 		 Extracted column length and column name
 DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Length Validated 
 DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Names Validated 
 DATE : 2021-10-19 --- TIME : 23:05:05 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 00:53:17 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 00:53:24 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 00:53:24 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 00:53:23 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 
+Error Occurred while Encoding Columns
+ 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 Data Preprocessing Completed Successfully 
