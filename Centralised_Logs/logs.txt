@@ -1,0 +1,4 @@
+DATE : 2021-10-19 --- TIME : 22:18:29 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Formatted Data Successfully 
