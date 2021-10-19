@@ -3,6 +3,7 @@ from flask_cors import cross_origin , CORS
 from Log_Writer.logger import App_Logger
 from Raw_Data_Formatter.data_formatter import formatter
 from Data_Validator.data_validator import Validator
+from Preprocessing.preprocessor import Preprocessor
 import sys
 
 app=Flask(__name__)
@@ -29,6 +30,10 @@ def index():
             err = Validator().validate(data)
             if err > 0:
                 sys.exit()
+
+            # Preprocessing the data
+            data = Preprocessor().preprocess(data)
+
 
 
             return render_template("results.html")
