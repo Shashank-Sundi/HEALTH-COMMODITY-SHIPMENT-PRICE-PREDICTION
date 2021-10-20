@@ -11,7 +11,7 @@ class Preprocessor:
         try:
             data=encode(data)
             data=null_value_imputer(data)
-            self.log_writer.log("Data Preprocessing Completed Successfully")
+            self.log_writer.log("Data Preprocessing Completed Successfully\n\n")
             return data
 
         except Exception as e:
