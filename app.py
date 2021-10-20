@@ -32,15 +32,17 @@ def index():
             if err > 0:
                 sys.exit()
 
+            country = data.Country[0]
+
             # Preprocessing the data
             data = Preprocessor().preprocess(data)
 
             model=pickle.load(open("Model/xgboost.pickle","rb"))
             pred=model.predict(data)
 
-            country=data.Country
 
-            return render_template("results.html",country=country,prediction=pred)
+
+            return render_template("results.html",country=country,prediction=pred[0])
         else :
             return render_template("index.html")
 
