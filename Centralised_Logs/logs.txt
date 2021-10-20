@@ -1,0 +1,810 @@
+DATE : 2021-10-19 --- TIME : 22:18:29 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:18:29 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:48:35 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:48:42 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:48:42 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:46 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:48:55 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:49:00 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:20 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:50:21 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:27 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Country is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Manufacturing_Site is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Brand is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Item_Description is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Product_Group is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Sub_Classification is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Molecule_Test_Type is not same as str, 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage_Form is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Dosage is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Managed_By is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Fulfill_Via is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Shipment_Mode is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:52:28 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:54:09 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:54:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:55:04 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:55:04 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:54:08 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:55:23 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:01 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 The data type of values in column Fulfill_Via is not same as object 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 22:58:02 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 22:59:09 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 22:59:23 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:51 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 The data type of values in column Freight_cost_special is not same as str 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 ERROR in the data type of input data 
+DATE : 2021-10-19 --- TIME : 23:01:52 		 ERROR occured in data validation 
+DATE : 2021-10-19 --- TIME : 23:03:29 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:03:36 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Collected inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Converting raw data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Formatted Data Successfully 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Extracted column length and column names from schema 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Length Validated 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Column Names Validated 
+DATE : 2021-10-19 --- TIME : 23:05:05 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 00:53:17 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 00:53:24 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 00:53:24 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 00:53:23 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 
+Error Occurred while Encoding Columns
+ 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 00:53:28 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 08:04:34 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 08:04:34 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 08:04:31 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 08:04:40 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 08:04:40 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 
+Error Occurred while Encoding Columns
+ 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 08:06:37 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 08:06:43 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 08:06:43 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 08:06:41 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 10:31:07 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 10:31:07 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 10:30:57 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 10:31:27 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 10:31:27 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 10:33:30 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 10:33:44 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 10:33:44 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 10:33:43 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 10:33:49 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 10:35:20 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 10:58:41 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 10:58:48 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 10:58:48 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 10:58:48 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 10:58:45 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 10:58:53 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:00:08 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:02:43 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:02:49 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:02:49 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:02:48 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:02:53 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:03:02 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:20:17 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:20:23 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:20:23 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:20:22 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:20:30 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:20:36 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:20:32 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:20:26 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:30:46 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:30:52 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:30:52 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:30:50 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:31:08 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:36:53 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:37:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:37:01 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:37:00 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:37:10 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:37:18 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:41:34 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:41:38 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:41:38 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:41:37 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 11:41:51 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:41:51 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:41:50 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 11:42:03 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:42:03 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:42:54 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:43:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:43:01 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:43:41 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:43:41 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:44:45 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:44:45 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:43:40 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:45:34 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:47:26 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:47:48 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:47:48 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:48:05 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:47:59 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:47:54 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:15:57 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:15:57 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:15:56 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:16:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:16:01 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:16:00 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:16:08 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:16:06 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:16:03 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:18:09 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:18:46 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:18:36 		 Error Occurred in index page route 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:17 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:37 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:20:56 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:23:23 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:23:24 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:23:24 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:23:24 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:24 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:23:39 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:23:40 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:24:56 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2021-10-20 --- TIME : 12:25:25 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:25:25 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:25:25 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:25:25 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:25:25 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:25:26 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:26:17 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column dlvry_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column dlvry_verif_time_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Unit of Measure (Per Pack) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Unit Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column item_value is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column dlvry_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column dlvry_verif_time_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Unit of Measure (Per Pack) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Unit Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 The data type of values in column item_value is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:03 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column dlvry_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column dlvry_verif_time_delay is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Unit of Measure (Per Pack) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Unit Price is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 The data type of values in column item_value is not same as float64 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR in the data type of input data 
+DATE : 2021-10-20 --- TIME : 12:27:04 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:27:14 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:15 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:27:50 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 12:28:09 		 Data Preprocessing Completed Successfully
+
+ 
