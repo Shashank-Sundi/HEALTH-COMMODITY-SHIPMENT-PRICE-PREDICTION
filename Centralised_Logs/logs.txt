@@ -407,3 +407,30 @@ DATE : 2021-10-20 --- TIME : 00:53:28
 ERROR occurred in null value imputation
  
 DATE : 2021-10-20 --- TIME : 00:53:28 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 08:04:34 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 08:04:34 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 08:04:31 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 08:04:40 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 08:04:40 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 
+Error Occurred while Encoding Columns
+ 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 08:04:50 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 08:06:37 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 08:06:43 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 08:06:43 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 08:06:41 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 10:31:07 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 10:31:07 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 10:30:57 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 10:31:27 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 10:31:27 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 10:33:30 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 10:33:44 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 10:33:44 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 10:33:43 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 10:33:49 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 10:35:20 		 Successfully fould columns with null values 
