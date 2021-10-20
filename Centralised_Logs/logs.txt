@@ -455,3 +455,69 @@ DATE : 2021-10-20 --- TIME : 11:20:30 		 Encoded all categorical columns success
 DATE : 2021-10-20 --- TIME : 11:20:36 		 Successfully fould columns with null values 
 DATE : 2021-10-20 --- TIME : 11:20:32 		 Null Value Imputation Completed Successfully 
 DATE : 2021-10-20 --- TIME : 11:20:26 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:29:28 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:30:46 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:30:52 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:30:52 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:30:50 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:31:08 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 
+ERROR occurred in null value imputation
+ 
+DATE : 2021-10-20 --- TIME : 11:36:01 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:36:53 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:37:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:37:01 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:37:00 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:37:10 		 Encoded all categorical columns successfully 
+DATE : 2021-10-20 --- TIME : 11:37:18 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:41:34 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:41:38 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:41:38 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:41:37 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 11:41:51 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:41:51 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:41:50 		 ERROR occured in data validation 
+DATE : 2021-10-20 --- TIME : 11:42:03 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:42:03 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:42:54 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:43:01 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:43:01 		 Column names are not as required by the format 
+DATE : 2021-10-20 --- TIME : 11:43:41 		 Collected inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:43:41 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-20 --- TIME : 11:44:45 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:44:45 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:43:40 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:45:34 		 Extracted column length and column names from schema 
+DATE : 2021-10-20 --- TIME : 11:47:26 		 Formatted Data Successfully 
+DATE : 2021-10-20 --- TIME : 11:47:48 		 Converting raw data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:47:48 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Column Length Validated 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Column Names Validated 
+DATE : 2021-10-20 --- TIME : 11:47:51 		 Data Validation Successfull 
+DATE : 2021-10-20 --- TIME : 11:48:05 		 Successfully fould columns with null values 
+DATE : 2021-10-20 --- TIME : 11:47:59 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-20 --- TIME : 11:47:54 		 Data Preprocessing Completed Successfully 

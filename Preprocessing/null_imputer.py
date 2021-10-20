@@ -13,7 +13,7 @@ def null_value_imputer(data):
         null_cols = find_null_cols(data)
 
         for col in null_cols:
-            clean_col=col
+            """clean_col=col
             if col=="Unit_of_measure":
                 clean_col='Unit of Measure (Per Pack)'
             if col=="Pack_Price":
@@ -23,10 +23,10 @@ def null_value_imputer(data):
             if col=="Weight":
                 clean_col='Weight (Kilograms)'
             if col=="Freight_Cost":
-                clean_col='Freight Cost (USD)'
+                clean_col='Freight Cost (USD)'"""
 
             imputer = KNNImputer(n_neighbors=10)
-            imputer.fit(clean_data[[clean_col]])
+            imputer.fit(clean_data[[col]])
             data[col] = imputer.transform(data[[col]])
 
         log_writer.log(log_message="Null Value Imputation Completed Successfully")

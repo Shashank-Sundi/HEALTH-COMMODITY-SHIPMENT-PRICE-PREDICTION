@@ -4,6 +4,7 @@ from Log_Writer.logger import App_Logger
 from Raw_Data_Formatter.data_formatter import formatter
 from Data_Validator.data_validator import Validator
 from Preprocessing.preprocessor import Preprocessor
+import pickle
 import sys
 
 app=Flask(__name__)
@@ -34,9 +35,12 @@ def index():
             # Preprocessing the data
             data = Preprocessor().preprocess(data)
 
+            model=pickle.load(open("Model/xgboost.pickle","rb"))
+            pred=model.predict(data)
 
+            country=data.Country
 
-            return render_template("results.html")
+            return render_template("results.html",country=country,prediction=pred)
         else :
             return render_template("index.html")
 
