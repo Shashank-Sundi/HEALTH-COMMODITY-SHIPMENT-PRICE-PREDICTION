@@ -1,4 +1,12 @@
 # HEALTH-COMMODITY-SHIPMENT-PRICE-PREDICTION
+
+[![wakatime](https://wakatime.com/badge/user/8f2e3b3a-321e-4119-b4f0-3a33c3752953/project/f1c60e47-055d-4059-9946-5863bccf6e83.svg)](https://wakatime.com/badge/user/8f2e3b3a-321e-4119-b4f0-3a33c3752953/project/f1c60e47-055d-4059-9946-5863bccf6e83)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://thyroid-detection-pred-sundi.herokuapp.com/)&nbsp;
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)&nbsp;
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">&nbsp;
+![GitHub repo size](https://img.shields.io/github/repo-size/Shashank-Sundi/HEALTH-COMMODITY-SHIPMENT-PRICE-PREDICTION)&nbsp;
+![Lines of code](https://img.shields.io/tokei/lines/github/Shashank-Sundi/HEALTH-COMMODITY-SHIPMENT-PRICE-PREDICTION?style=flat)
+
 Machine Learning Project to predict the price of health commodity (Antiretroviral (ARV) and HIV lab shipments) shipped to different countries 
 
 <img src="static\images\alan-veas-z1oKOZjtvVQ-unsplash.jpg" alt="affair" />
@@ -6,14 +14,14 @@ Machine Learning Project to predict the price of health commodity (Antiretrovira
 
 ## Deployment
 
-The model has been deployed using REST API using flask, on Heroku :  https://thyroid-detection-pred-sundi.herokuapp.com/
+The model has been deployed using REST API using flask, on Heroku :  https://shipment-price-pred-sundi.herokuapp.com/
 
 
 ## Original Dataset and Python Notebook
 
-Original Dataset : https://github.com/Shashank-Sundi/THYROID-DETECTION-CLASSIFICATION/blob/main/hypothyroid.csv
+Original Dataset :  https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Data/a3rc-nmf6
 
-Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-prediction.ipynb
+Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/SHIPMENT-PRICING.ipynb
 
 <hr>
 
@@ -69,11 +77,11 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-
 
 ### **Enter the required inputs in home page and press predict button**
 
-<img src="static\images\homethyroid.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
+<img src="static\images\homeww.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
 
 ### **The Prediction Page**
 
-<img src="static\images\resultthyroid.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
+<img src="static\images\resultt.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
 
 <hr>
   
