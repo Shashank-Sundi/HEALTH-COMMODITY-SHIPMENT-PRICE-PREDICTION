@@ -29,7 +29,7 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/SHIPMENT
 
 | PROBLEM | MODELS USED  |LIBRARIES USED   |IDE's USED|
 | :-------- | :------- | :------------------------- | :-------|
-| **Predicting if a patient suffers from Thyroid Disease**| `LOGISTIC REG,KNN,SVC,NAIVE BAYES,RANDOM FOREST,XGBOOST` | `Sklearn , Seaborn ,Pandas ,Numpy ,Scipy ,Xgboost `|`PyCharm,` `VS Code,` `Jupyter Notebook`|
+| **Predicting if a patient suffers from Thyroid Disease**| `LINEAR REG,` `ELASTIC/RIDGE REG,` `KNN,` `KMEANS,` `SVM,` `DECISION TREE,` `RANDOM FOREST,` `XGBOOST` | `Sklearn ,` ` Seaborn ,` `Pandas ,` `Numpy ,` `Scipy ,` `Xgboost `|`PyCharm,` `VS Code,` `Jupyter Notebook`|
 
 <hr>
 
@@ -40,20 +40,15 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/SHIPMENT
 | **Step**|**Execution of the project was carried out as given in the following steps :** |
 | :--------|:-------- | 
 |1| Validated and rectified the data types of the features and analysed their statistical properties|
-|2| Created some new features capturing the importance of missing values in some features
-|3| Removed invalid data types and imputed missing values with corresponding feature means
-|4|Encoded columns using Frequency Encoding and mapping
-|5|Performed EDA on data - checked the distribution of data using NPP, KDE plots ; checked for outliers via boxplots
-|6|Removed Extreme Outliers
-|7| Oversampled the minority class , using SMOTE
-|8| Visualixed the correlation matrix and removed Multi-Collinearity
-|9|Clustered the dataset into 4 clusters , using Kmeans and the elbow graph
-|10| Metric used to evaluate models - We use Accuracy and Recall
-|11| Trained and tested various models on the data clusters and for each cluster , chose the model which gave highest recall score 
-|12.1| Best Model for Cluster 1 : rf --Recall : 99.37%
-|12.2|Best Model for Cluster 2 : xgb --Recall : 99.29%
-|12.3|Best Model for Cluster 3 : Logreg --Recall : 99.43%
-|12.4|Best Model for Cluster 4 : Logreg --Recall : 99.12%
+|2|Performed EDA on data - checked the distribution of data using NPP, KDE plots , visualized relation between the different features
+|3| Performed Random Sample Imputation for Categorical columns and KNN imputation for Numerical Columns
+|4|Encoded top 10 categories in all columns using Frequency Encoding and mapping
+|6|Visualized Outliers via BoxPlots and removed the possible Outliers , by manually setting the threshold
+|7| Visualized the correlation matrix and removed highly correlated columns
+|9|Clustered the dataset into 3 clusters , using Kmeans and the elbow graph
+|10| Metric used to evaluate models - Adjusted r2 score
+|11| Trained and tested various models on the data clusters and for each cluster , chose the model which gave highest adj r2 score
+|12|XGB Regressor gave highest adj r2 score for all clusters.Hence , we can conclude that models generalise worse after clustering ,as compared to the whole dataset.Hence we don't need to to cluster the data
 |13| Exported all required models via pickle
 
 
