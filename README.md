@@ -21,6 +21,8 @@ The model has been deployed using REST API using flask, on Heroku :  https://shi
 
 Original Dataset :  https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Data/a3rc-nmf6
 
+Python Notebook : https://shashank-sundi.github.io/HEALTH-COMMODITY-SHIPMENT-PRICE-PREDICTION/
+
 Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/SHIPMENT-PRICING.ipynb
 
 <hr>
